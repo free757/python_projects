@@ -65,22 +65,48 @@
       <option name="project" value="LOCAL" />
       <updated>1584279973118</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hello">
+      <created>1584280047308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584280047308</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hello">
+      <created>1584280101836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584280101836</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
     <option name="LAST_COMMIT_MESSAGE" value="hello" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="718" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584207361258">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="321" key="#com.intellij.fileTypes.FileTypeChooser/1920.121.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1584207361258" />
-    <state x="599" y="125" key="CommitChangelistDialog2" timestamp="1584280047069">
+    <state x="599" y="125" key="CommitChangelistDialog2" timestamp="1584280101627">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="599" y="125" key="CommitChangelistDialog2/0.0.1920.1080/1920.312.1366.768@0.0.1920.1080" timestamp="1584280047069" />
+    <state x="599" y="125" key="CommitChangelistDialog2/0.0.1920.1080/1920.312.1366.768@0.0.1920.1080" timestamp="1584280101627" />
     <state x="461" y="179" key="SettingsEditor" timestamp="1584279497608">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -89,9 +115,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.312.1366.768@0.0.1920.1080" timestamp="1584279718702" />
-    <state x="751" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584279990571">
+    <state x="751" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584280214225">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="751" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.312.1366.768@0.0.1920.1080" timestamp="1584279990571" />
+    <state x="751" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.312.1366.768@0.0.1920.1080" timestamp="1584280214225" />
   </component>
 </project>
