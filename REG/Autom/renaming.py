@@ -1,3 +1,3 @@
 import pandas
 import xlsx
-import open
+v = 1
